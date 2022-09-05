@@ -1,0 +1,76 @@
+{
+  "profile": {
+    "greeting": "ආයුබෝවන් {{user_first_name}}! අප ඇමතීමට get started ඔබන්න."
+  },
+  "menu": {
+    "order": "ඇනවුම් තොරතුරු",
+    "help": "නියෝජිත සහය",
+    "suggestion": "නිමැවුම් යෝජනා",
+    "shop": "මිලදී ගැනීමට",
+    "start_over": "පටන් ගැනීමට",
+    "product_launch": "නව නිමැවුම්"
+  },
+  "get_started": {
+    "welcome": "ආයුබෝවන් {{userFirstName}}! සෙලීනා නිමැවුම් වෙත සාදරයෙන් පිළිගනිමු!",
+    "guidance": "නිරතුරුව පහල ඇති මෙනුව බාවිතා කිරිමට කාරුණික වන්න.",
+    "help": "කෙසේද ඔබට සහය විය හැක්කේ?"
+  },
+  "leadgen": {
+    "promo": "ආයුබෝවන් {{userFirstName}}, ඔබට අවශ්‍ය නිමැවුම් තේරීම දැන් වඩාත් පහසුයි",
+    "title": "50% වට්ටම්",
+    "subtitle": "ඔබගේ වට්ටම ලබාගන්න",
+    "apply": "වට්ටම යොදන්න",
+    "coupon": "දැන් ඔබේ වට්ටම යොදා ඇත, ඔබට දැන් නව වට්ටම් පරීක්ශා කල හැකිය"
+  },
+  "curation": {
+    "prompt": "ඔබ නිමැවුම් පරික්ශා කරන්නේ වෙනත් අයෙකුටද?",
+    "occasion": "නියමයි! පටන් ගමු!! පළමුව ඔබ මෙම නිමැවුම් බලන්නේ යම්කිසි අවස්තාවකටද?",
+    "price": "මෙම අවස්ථාවේ ඔබ වියදම් කිරීමට බලන්නේ කොපමණක් ද?",
+    "me": "මා සදහා!",
+    "someone": "වෙනත් අයෙකුට",
+    "work": "ආයතයට යාම සදහා",
+    "dinner": "රාත්‍රී බෝජනයකට යාම සදහා",
+    "party": "උත්සවයකට",
+    "sales": "නියෝජිත සහය",
+    "shop": "මෙය මිලදී ගනිමි",
+    "title": "Summer collection 2022",
+    "subtitle": "Featured outfit",
+    "show": "තවත් ඒවා බලමු",
+    "productLaunchTitle": "නව නිමැවුම්"
+  },
+  "order": {
+    "prompt": "පහතින් තෝරන්න. අප උදව් දීමට කැමැත්තෙමු",
+    "search": "ඇනවුම් අංකය මගින් තෝරන්න",
+    "account": "මගේ ගිණුම link කරන්න",
+    "dialog": "Account linking dialog",
+    "searching": "අවසන් ඇනවුම සොයන්නෙමු...",
+    "number": "ඇනවුම් අංකය ලියා එවන්න",
+    "status": "ඔබගේ ඇනවුම ඔබ වෙත ලගා වෙනගමන්ය. ඒ සදහා දින තුනක් ගතවේ."
+  },
+  "care": {
+    "prompt": "ඔබව නිවැරදි කණ්ඩායමට යොමු කිරීම සදහා ඔබගේ කාරනාව ලියා එවන්න?",
+    "order": "Order Inquiries",
+    "billing": "Billing Issues",
+    "other": "Other",
+    "appointment": "Thank you for wanting to make an appointment.",
+    "issue": "Hi {{userFirstName}}, my name is {{agentFirstName}}, I'm here to assist you with any questions you might have about your {{topic}}.",
+    "default": "Hi {{userFirstName}}, my name is {{agentFirstName}}, I'm here to assist you today. How can I help you?",
+    "style": "Hi {{userFirstName}}, my name is {{agentFirstName}}, I’m here to answer questions you might have on our summer styles",
+    "end": "This is as far as the demo goes. Leverage the power of the messenger platform for your business.",
+    "help": "Help"
+  },
+  "survey": {
+    "prompt": "Hi, want to get quick feedback on your recent experience with {{agentFirstName}}",
+    "positive": "Thanks for the feedback",
+    "neutral": "Thanks for the feedback, if there something we should improve feel free to comment with #suggestion",
+    "negative": "Thanks for telling us. Sorry to hear that, if there something we can do to turn this let us know",
+    "suggestion": "Your suggestion has been recorded for future review by the team. If this is something we need to get back to you right now just comment \"help\""
+  },
+  "chat_plugin": {
+    "prompt": "Thanks for visiting our store, be sure to check out all the great styles we have on the summer section."
+  },
+  "fallback": {
+    "any": "Sorry, but I don’t recognize \"{{message}}\".",
+    "attachment": "Thanks for sending this attachment, we can connect you to an agent to review it or we can start over"
+  }
+}
